@@ -1,0 +1,27 @@
+{
+    "amount": 0,
+    "countGoods": 0,
+    "contents": [
+        {
+            "quantity": 1,
+            "id_product": 3,
+            "product_name": "Pants",
+            "product_text": "Sweet pants",
+            "price": 300
+        },
+        {
+            "quantity": 2,
+            "id_product": 2,
+            "product_name": "T-Short",
+            "product_text": "Nice t-short",
+            "price": 200
+        },
+        {
+            "quantity": 1,
+            "id_product": 6,
+            "product_name": "Jacket",
+            "product_text": "Neat jacket",
+            "price": 600
+        }
+    ]
+}
